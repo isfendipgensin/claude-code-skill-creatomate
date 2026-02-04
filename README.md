@@ -18,11 +18,11 @@ A [Claude Code](https://claude.ai/claude-code) skill that provides comprehensive
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/claude-code-skill-creatomate.git \
+git clone https://github.com/Sara-Saraireh/claude-code-skill-creatomate.git \
   ~/.claude/skills/creatomate
 
 # Or for project-specific installation
-git clone https://github.com/YOUR_USERNAME/claude-code-skill-creatomate.git \
+git clone https://github.com/Sara-Saraireh/claude-code-skill-creatomate.git \
   .agents/skills/creatomate
 ```
 
